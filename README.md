@@ -3,7 +3,7 @@
 
 Just a very terrible RISC-V Emulator!
 <br>
-Code Writtten in Rust
+Code Writtten in Rust [Licensed Under AGPL-3.0; See LICENSE]
 <br>
 <br>
 Milestones 📫:
